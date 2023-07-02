@@ -21,7 +21,7 @@ My passion for web development using the React framework shows my attention to d
 My combination of technical skills and curiosity makes me a well-rounded and valuable candidate in the tech industry. With my willingness to learn and adapt, I am likely to excel in any team or project I work with.
 
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
+
 
 
 - 🌱 I’m currently learning **Data Science**
@@ -34,11 +34,10 @@ My combination of technical skills and curiosity makes me a well-rounded and val
 
 - ⚡ Fun fact **There is BIG money in coding**
 
-<br>
 <p align="center">
   <img src= "https://i.giphy.com/media/q217GUnfKAmJlFcjBX/giphy.webp">
 </p>
-</br>
+<img align="centre" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
 
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>

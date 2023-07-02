@@ -8,6 +8,8 @@
 <h1 align="center">Hi 👋, I'm Debajyoti Sanyal</h1>
 <h3 align="center">For God and Country</h3>
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debajyoti-sanyal-21023021a/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)]((https://twitter.com/_pegasus_03))
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanyal10&label=Profile%20views&color=0e75b6&style=flat" alt="sanyal10" /> </p>
 
 - 🌱 I’m currently learning **Data Science**

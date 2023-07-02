@@ -33,10 +33,12 @@ My combination of technical skills and curiosity makes me a well-rounded and val
 - 📫 How to reach me **[Linkedin](https://www.linkedin.com/in/debajyoti-sanyal-21023021a/)[Twitter](https://twitter.com/_pegasus_03)**
 
 - ⚡ Fun fact **There is BIG money in coding**
--
+
+<br>
 <p align="center">
   <img src= "https://i.giphy.com/media/q217GUnfKAmJlFcjBX/giphy.webp">
 </p>
+</br>
 
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>

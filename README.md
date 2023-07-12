@@ -73,3 +73,5 @@ My combination of technical skills and curiosity makes me a well-rounded and val
 
 ---
 
+### Just a Snake 🐍 Eating away my Contributions...😭
+![snake gif](https://raw.githubusercontent.com/sanyal10/sanyal10/output/github-contribution-grid-snake.svg)
